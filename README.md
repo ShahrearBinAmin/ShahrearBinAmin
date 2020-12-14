@@ -105,6 +105,7 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Generator in python: Process millions of data without wasting memory](https://medium.com/@shahrearbinamin01/generator-in-python-process-millions-of-data-without-wasting-memory-c690acf009c4?source=rss-d0ea8dc74777------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
