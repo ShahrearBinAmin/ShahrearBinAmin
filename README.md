@@ -109,6 +109,6 @@
 
 ## Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahrearBinAmin&layout=compact)](https://github.com/ShahrearBinAmin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahrearBinAmin&layout=compact&count_private=true)](https://github.com/ShahrearBinAmin/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShahrearBinAmin&count_private=true&show_icons=true)](https://github.com/ShahrearBinAmin/github-readme-stats)
