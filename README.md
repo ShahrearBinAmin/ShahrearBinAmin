@@ -111,6 +111,11 @@
 ## StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+- [Getting permission denied in heroku container login](https://stackoverflow.com/questions/65279748/getting-permission-denied-in-heroku-container-login)
+- [How to get all text having certain pattern in UIAutomator](https://stackoverflow.com/questions/65221642/how-to-get-all-text-having-certain-pattern-in-uiautomator)
+- [How to scroll current whole screen with UI Automator](https://stackoverflow.com/questions/65218974/how-to-scroll-current-whole-screen-with-ui-automator)
+- ["Docker-compose run" shows backend running but can't access from host [duplicate]](https://stackoverflow.com/questions/65087636/docker-compose-run-shows-backend-running-but-cant-access-from-host)
+- [Auto increment non primary column in SQLAlchemy](https://stackoverflow.com/questions/65051546/auto-increment-non-primary-column-in-sqlalchemy)
 <!-- STACKOVERFLOW:END -->
 
 ## Github Stats
