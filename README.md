@@ -111,11 +111,11 @@
 ## StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Shahrear Bin Amin for how do i keep myself logged in heroku (chromedriver) even after dyno restarts everyday?](https://stackoverflow.com/questions/65305013/how-do-i-keep-myself-logged-in-heroku-chromedriver-even-after-dyno-restarts-ev/65308135#65308135)
 - [command in heroku yml is not getting bash script](https://stackoverflow.com/questions/65307689/command-in-heroku-yml-is-not-getting-bash-script)
 - [Getting permission denied in heroku container login](https://stackoverflow.com/questions/65279748/getting-permission-denied-in-heroku-container-login)
 - [How to get all text having certain pattern in UIAutomator](https://stackoverflow.com/questions/65221642/how-to-get-all-text-having-certain-pattern-in-uiautomator)
 - [How to scroll current whole screen with UI Automator](https://stackoverflow.com/questions/65218974/how-to-scroll-current-whole-screen-with-ui-automator)
-- ["Docker-compose run" shows backend running but can't access from host [duplicate]](https://stackoverflow.com/questions/65087636/docker-compose-run-shows-backend-running-but-cant-access-from-host)
 <!-- STACKOVERFLOW:END -->
 
 ## Github Stats
