@@ -111,7 +111,7 @@
 ## StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
-- [Jenkins installation fails on Ubuntu 20.04 with dpkg: error processing package jenkins (--configure)](https://stackoverflow.com/questions/65875513/jenkins-installation-fails-on-ubuntu-20-04-with-dpkg-error-processing-package-j)
+- [An unexpected error has occurred. Please try again. (6E61E22C) while activating in app products](https://stackoverflow.com/questions/65887487/an-unexpected-error-has-occurred-please-try-again-6e61e22c-while-activating)
 - [Answer by Shahrear Bin Amin for conf.d/python.d/ is not available in datadog-agent](https://stackoverflow.com/questions/65629898/conf-d-python-d-is-not-available-in-datadog-agent/65631654#65631654)
 - [conf.d/python.d/ is not available in datadog-agent](https://stackoverflow.com/questions/65629898/conf-d-python-d-is-not-available-in-datadog-agent)
 - [Python regex group matches shows extra empty string](https://stackoverflow.com/questions/65536423/python-regex-group-matches-shows-extra-empty-string)
