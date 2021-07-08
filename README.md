@@ -111,11 +111,11 @@
 ## StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Shahrear Bin Amin for Installation failed with message Invalid File](https://stackoverflow.com/questions/42219784/installation-failed-with-message-invalid-file/68307286#68307286)
 - [Answer by Shahrear Bin Amin for Geo redirect same domain after slash with AWS](https://stackoverflow.com/questions/68076274/geo-redirect-same-domain-after-slash-with-aws/68098988#68098988)
 - [How to accept request with port after domain in nginx](https://stackoverflow.com/questions/67608300/how-to-accept-request-with-port-after-domain-in-nginx)
 - [testDeviceId's are not working in google-mobile-ads flutter](https://stackoverflow.com/questions/66881383/testdeviceids-are-not-working-in-google-mobile-ads-flutter)
 - [Answer by Shahrear Bin Amin for Saleor dashboard CORS error during login (CORS blocked)](https://stackoverflow.com/questions/65967436/saleor-dashboard-cors-error-during-login-cors-blocked/66655498#66655498)
-- [SQLite full-text search giving 0 rows when I run query](https://stackoverflow.com/questions/66642270/sqlite-full-text-search-giving-0-rows-when-i-run-query)
 <!-- STACKOVERFLOW:END -->
 
 ## Github Stats
