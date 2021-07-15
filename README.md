@@ -111,11 +111,11 @@
 ## StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+- [Wired popup after saving any file](https://stackoverflow.com/questions/68398745/wired-popup-after-saving-any-file)
 - [Answer by Shahrear Bin Amin for Installation failed with message Invalid File](https://stackoverflow.com/questions/42219784/installation-failed-with-message-invalid-file/68307286#68307286)
 - [Answer by Shahrear Bin Amin for Geo redirect same domain after slash with AWS](https://stackoverflow.com/questions/68076274/geo-redirect-same-domain-after-slash-with-aws/68098988#68098988)
 - [How to accept request with port after domain in nginx](https://stackoverflow.com/questions/67608300/how-to-accept-request-with-port-after-domain-in-nginx)
 - [testDeviceId's are not working in google-mobile-ads flutter](https://stackoverflow.com/questions/66881383/testdeviceids-are-not-working-in-google-mobile-ads-flutter)
-- [Answer by Shahrear Bin Amin for Saleor dashboard CORS error during login (CORS blocked)](https://stackoverflow.com/questions/65967436/saleor-dashboard-cors-error-during-login-cors-blocked/66655498#66655498)
 <!-- STACKOVERFLOW:END -->
 
 ## Github Stats
