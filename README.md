@@ -6,8 +6,8 @@
 
 <!-- - 🔭 I’m currently working on [something](link), [other](other) -->
 
-- 🌱 I’m currently learning **Node, React**
-
+<!-- - 🌱 I’m currently learning **Node, React**
+ -->
 - 👯 I’m looking to collaborate with **other developer**
 
 - ⚡ Fun fact **Jack of all trades master of few!**
